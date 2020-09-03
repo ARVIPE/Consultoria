@@ -312,7 +312,6 @@ img {
   .academy-btn.btn-3 {
     background: #69bc5f; }
     .academy-btn.btn-3:hover, .academy-btn.btn-3:focus {
-      .academy-btn.btn-4:hover, .academy-btn.btn-4:focus {
       background: #141414; }
   .academy-btn.btn-4 {
     background: #ffffff;
@@ -525,7 +524,6 @@ img {
     visibility: visible; }
 
 /* Top Features Area CSS */
-    .academy-btn.btn-4:hover, .academy-btn.btn-4:focus {
 .top-features-area {
   position: relative;
   z-index: 50;
