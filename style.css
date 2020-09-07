@@ -1210,7 +1210,7 @@ img {
 /*Google Maps responsive*/
     .google-maps {
         position: relative;
-        padding-bottom: 75%;
+        padding-bottom: 30%;
         height: 0;
         overflow: hidden;
     }
@@ -1253,3 +1253,4 @@ img {
     font-size: 18px; }
 
 /*# sourceMappingURL=style.css.map */
+
