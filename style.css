@@ -658,13 +658,8 @@ img {
   position: relative;
   z-index: 1;
   margin-bottom: 30px;
-  background-color: #eef3f6; }
+  background-color: #1cf741; }
   .single-top-popular-course .popular-course-content {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 54%;
-    flex: 0 0 54%;
-    max-width: 54%;
-    width: 54%;
     padding: 30px; }
     @media only screen and (max-width: 767px) {
       .single-top-popular-course .popular-course-content {
